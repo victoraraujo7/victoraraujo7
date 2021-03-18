@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Victor">
 
 <p align="left">
-  Olá meu nome é Victor, sou desenvolvedor <strong>Full Stack</strong> Estou disponível para trabalho, caso precise contratar meu serviço entre em contato.
+  Olá meu nome é Victor, sou desenvolvedor <strong>Full Stack</strong> 
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem:: ⤵️
+  💌 Estou disponível para trabalho, caso precise contratar meu serviço entre em contato:: ⤵️
 </p>
 
 <p align="left">
